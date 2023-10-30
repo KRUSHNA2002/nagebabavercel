@@ -1,0 +1,739 @@
+*
+{
+	margin: 0px;
+	padding: 0px;
+}
+.menu_email{
+	color: yellow !important;
+}
+
+.menu_logo
+{
+	height: 60px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 2px solid black;
+}
+.dropdown-menu a
+{
+	
+	border-radius: 20px;
+	text-align: center;
+}
+.dropdown:hover .dropdown-menu 
+{
+	display: block;
+	background-color: skyblue;
+}
+
+.about_padd p
+{
+	margin-top: 30px;
+}
+
+.info
+{
+	height: 250px;
+	width: 50px;
+	box-shadow: 0px 0px 10px 0px gray inset;
+	/*margin-right: 30px;
+	margin-left: 60px;*/
+  margin-right: 10px;
+	padding: 40px;
+
+
+
+}
+.info button
+{
+	border-radius: 20px;
+}
+.info button:hover
+{
+   background-color: orange;
+   border: none;
+   border-radius: 20px;
+}
+.info i
+
+{
+  font-size: 50px;
+  
+}
+.why_choose
+{
+	height: 350px;
+	border-radius: 30px 0px 30px 0px;
+	box-shadow: 0px 0px 10px 0px gray;
+	padding: 25px;
+}
+.why_choose:hover
+{
+	background-color: #2338a1 !important;
+	color: white;
+	border-radius: 0px 30px 0px 30px;
+}
+.why_choose:hover .why_choose1
+{
+	background-color: #2338a1 !important;
+	color: white;
+}
+.why_choose:hover .why_choose_icon
+{
+     font-size: 50px;
+	background-color: #2da1c2;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;}
+.why_choose1
+{
+	border: none;
+	border-radius: 30px 0px 0px 0px !important
+}
+.why_choose2
+{
+	border: none;
+}
+.why_choose_icon
+{
+	font-size: 50px;
+	background-color: #f9d7fa;
+	height: 100px;
+	width: 100px;
+	border-radius: 50%;
+
+}
+.why_choose_icon i
+{
+     margin-top: 20px;
+}
+
+.about_padd
+{
+	padding: 50px;
+}
+
+.card_box1
+{
+	height: 500px;
+
+}
+
+.about_choose
+{
+	background-image:linear-gradient(to right,#1c2291,whitesmoke) !important;
+}
+
+.about_choose1
+{
+	background-image:linear-gradient(to left,#1c2291,whitesmoke) !important;
+}
+
+.footer_font
+{
+	margin-left: 20px;
+}
+.card_b
+{
+	height: 230px;
+}
+.card_b:hover
+{
+	background-color: #1c2291;
+	color: white;
+	 transform:scaleX(1.3);
+   transform:scaleY(1.3);
+}
+
+
+
+
+  /*================ ABOUT =============*/
+
+
+
+  .background
+  {
+  	height: 400px;
+  	width: 100%;
+  	background-image: url(images/about/bg.jpg);
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  }
+  .background h1
+  {
+  	padding-top: 120px;
+    font-size: 50px;
+  }
+
+ 
+
+ .background a:hover
+ {
+    color: skyblue !important;
+ }
+
+.about_history
+{
+	height: 650px;
+	width: 100%;
+	background-color:  white;
+	
+}
+.box1
+{
+	height: 100px;
+	width: 80px;
+	border-right:3px solid black ;
+	border-bottom:3px solid black ;
+	margin-left: 580px;
+	margin-top: 70px;
+	box-sizing: border-box;
+}
+.box2
+{
+	height: 150px;
+	width: 80px;
+	border-left: 3px solid black ;
+	margin-left: 657px;
+	border-bottom:3px solid black ;
+	margin-top: 0px;
+	box-sizing: border-box;
+}
+.box3
+{
+	height: 150px;
+	width: 80px;
+    border-right: 3px solid black ;
+	margin-left: 580px;
+	margin-top: 0px;
+	box-sizing: border-box;
+}
+.box4
+{
+	height: 100px;
+	width: 80px;
+	border-right:3px solid black ;
+	border-top:3px solid black ;
+	margin-left: 580px;
+	box-sizing: border-box;
+}
+
+.circle1
+{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	border: 4px solid black;
+	margin-left: 648px;
+	margin-top: -260px;
+	z-index: 9999;
+	background-color: white;
+}
+.circle2
+{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	border: 4px solid black;
+	margin-left: 648px;
+	margin-top: -170px;
+	z-index: 9999;
+	background-color: white;
+}
+.circle3
+{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	border: 4px solid black;
+	margin-left: 648px;
+	margin-top: 280px;
+	z-index: 9999;
+	background-color: white;
+}
+
+.circle4
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin-left: 550px;
+	margin-top: -30px;
+	z-index: 99999;
+	background-color: white;
+}
+
+.history
+{
+	height: 100px;
+	width: 350px;
+	
+	border-radius: 0px 50px 50px 0px ;
+	box-shadow: 0px 0px 10px 0px gray;
+	margin-left: 210px;
+	margin-top: -220px;
+	z-index: 11;
+}
+.history1
+{
+	height: 100px;
+	width: 350px;
+	
+	border-radius: 0px 50px 50px 0px ;
+	box-shadow: 0px 0px 10px 0px gray;
+	margin-left: 210px;
+	margin-top: 200px;
+	
+}
+
+.circle5
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin-left: 550px;
+	margin-top: -340px;
+	z-index: 99999;
+	background-color: white;
+}
+
+.history2
+{
+	height: 100px;
+	width: 350px;
+	
+	border-radius: 50px 0px 0px 50px ;
+	box-shadow: 0px 0px 10px 0px gray;
+	margin-left: 760px;
+	margin-top: -250px;
+	
+}
+
+.circle6
+{
+	/*all box are delete create issues not be delete it*/
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px ;
+	margin-left: 50px;
+	margin-top: -340px;
+	z-index: 99999;
+	
+}
+.circle7
+{
+  height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin-left: 730px;
+	margin-top: 410px;
+	background-color: white;
+}
+
+.about_history1
+{
+	height: 650px;
+	width: 100%;
+	background-color:  white;
+	margin-top: -200px;
+	display: none;
+	
+}
+
+
+@media(max-width: 500px)
+{
+	.about_history
+	{
+		width: 100%;
+		height: 650px;
+		display: none;
+	}
+	.about_history1
+{
+	height: 650px;
+	width: 100%;
+	
+	margin-top: 70px;
+
+	display: inline-block;
+
+	
+}
+.about_history1_padd
+{
+	padding: 55px;
+}
+
+
+    .box11
+{
+	height: 100px;
+	width: 80px;
+	border-left:3px solid black ;
+	border-bottom:3px solid black ;
+	margin-top: 70px;
+	box-sizing: border-box;
+	
+}
+.box22
+{
+	height: 150px;
+	width: 80px;
+	border-left: 3px solid black ;
+	
+	border-bottom:3px solid black ;
+	
+	box-sizing: border-box;
+	
+}
+.box33
+{
+	height: 150px;
+	width: 80px;
+    border-left: 3px solid black ;
+	
+
+	box-sizing: border-box;
+}
+.box44
+{
+	height: 100px;
+	width: 80px;
+	border-left:3px solid black ;
+	border-top:3px solid black ;
+	
+	box-sizing: border-box;
+}
+
+.circle11
+{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	border: 4px solid black;
+	
+	margin-top: -260px;
+	z-index: 9999;
+	background-color: white;
+}
+.circle22
+{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	border: 4px solid black;
+	
+	margin-top: -170px;
+	z-index: 9999;
+	background-color: white;
+}
+.circle33
+{
+	height: 20px;
+	width: 20px;
+	border-radius: 50%;
+	border: 4px solid black;
+	margin-left: 0px;
+	margin-top: 280px;
+	z-index: 9999;
+	background-color: white;
+	
+}
+
+.circle44
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin-left: 60px;
+	margin-top: -30px;
+	background-color: white;
+	
+}
+.circle55
+{
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin-left: 60px;
+	margin-top: -340px;
+	z-index: 99999;
+	background-color: white;
+	
+}
+.circle66
+{
+	/*all box are delete create issues not be delete it*/
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px ;
+	margin-left: 60px;
+	margin-top: -340px;
+	z-index: 99999;
+	
+	
+}
+.circle77
+{
+  height: 40px;
+	width: 40px;
+	border-radius: 50%;
+	border: 2px solid black;
+	margin-left: 60px;
+	margin-top: 410px;
+	background-color: white;
+	
+}
+
+
+.history0
+{
+	height: 100px;
+	width: 250px;
+	
+	border-radius: 50px 0px 0px 50px ;
+	box-shadow: 0px 0px 10px 0px gray;
+	margin-left: 55px;
+	margin-top: -220px;
+	
+	z-index: 11;
+}
+.history11
+{
+	height: 100px;
+	width: 250px;
+	
+     border-radius: 50px 0px 0px 50px ;
+	box-shadow: 0px 0px 10px 0px gray;
+	margin-left: 55px;
+	margin-top: 200px;
+	
+	
+}
+
+.history22
+{
+	height: 100px;
+	width: 250px;
+	
+	border-radius: 50px 0px 0px 50px ;
+	box-shadow: 0px 0px 10px 0px gray;
+	margin-left: 55px;
+	
+	margin-top: -250px;
+	
+}
+
+}
+
+.about_slider1
+{
+	background-image: url(images/about/about_slider1.png);
+	height: 600px;
+	width: 100%;
+	border-radius: 50%;
+	background-repeat: no-repeat;
+	background-size: 100 100;
+	/*background-color: red;*/
+}
+
+
+
+       /*** ABOUT1 ***/
+
+
+
+
+
+
+
+
+  .background1
+  {
+  	height: 400px;
+  	width: 100%;
+  	background-image: url(images/about/bg1.jpg);
+  	background-color:hsla(120, 100%, 50%,0.5) ;
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  }
+
+   .background1 h1
+  {
+  	 padding-top: 130px;
+     top: 320px;
+     font-size: 60px;
+     font-weight: bold;
+  }
+ .background1 a:hover
+ {
+    color: blue !important;
+ }
+
+
+
+       /**** ABOUT-2 ****/
+
+
+ .background2
+  {
+  	height: 500px;
+  	width: 100%;
+  	background-image: url(images/about/bg3.jpg);
+  	
+   
+  	background-size: 100% 100%;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+  }
+ 
+   .background2 h1
+  {
+  	
+  	padding-top: 150px;
+     top: 320px;
+     font-size: 60px;
+     font-weight: bold;
+  }
+ .background2 a:hover
+ {
+    color: blue !important;
+ }
+
+
+
+
+                             /* SEVA  */
+
+
+
+.seva_bg
+{
+	height: 400px;
+  	width: 100%;
+  	background-image: url(images/seva/seva.png);
+    background-size: 100% 100%;
+  	background-repeat: no-repeat;
+  	background-attachment: fixed;
+}
+
+.seva_bg_hsla
+{
+	background-color: hsla(300, 40%, 60%, 0.3);
+	height: 400px;
+	width: 100%;
+}
+
+ .seva_bg h1
+  {
+  	
+  	  padding-top: 120px;
+     top: 320px;
+     font-size: 60px;
+     font-weight: bold;
+  }
+ .seva_bg a:hover
+ {
+    color: blue !important;
+ }
+
+ .seva_body h5
+ {
+     text-align: left;
+ }
+ .seva_body input
+ {
+   width: 100%;
+   height: 40px;
+   
+ }
+
+
+
+-----------/* THEVYOJNA*/---------------
+
+
+
+ .thev h1
+  {
+  	
+  	position: absolute;
+     top: 320px;
+     font-size: 60px;
+     font-weight: bold;
+  }
+ .thev a:hover
+ {
+    color: blue !important;
+ }
+
+
+
+-----------/* THEVYOJNA1*/---------------
+
+
+
+ .thev1 h1
+  {
+  	
+  	position: absolute;
+     top: 320px;
+     font-size: 60px;
+     font-weight: bold;
+  }
+ .thev1 a:hover
+ {
+    color: blue !important;
+ }
+
+
+-----------/* THEVYOJNA2*/---------------
+
+
+
+
+ .thev2 a:hover
+ {
+    color: blue !important;
+ }
+
+
+
+
+
+
+/*------------------------ goldLoan ---------------------------*/
+
+
+
+
+.gold a:hover
+{
+     color: blue !important;
+}
+
+
+/*------------------------ taranLoan ---------------------------*/
+
+
+
+
+/*---------------------------calender---------------------------------*/
+
+
+
+.calender li:hover
+{
+	background-color: blue !important;
+}
